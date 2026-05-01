@@ -1,3 +1,17 @@
+> ⚠️ **Importante**
+>
+> Este repositorio es solo para ejemplificar un proyecto de solemne II. Usar solo para referencia de **código, el funcionamiento del sistema y de diagrama de flujo**.
+>
+> **NO es un modelo de cómo deben hacer su README ni la estructura de su repositorio.**
+>
+> Úsenlo como referencia para:
+> - entender la lógica del sistema  
+> - ver cómo se relacionan input, proceso y output  
+> - revisar un ejemplo de diagrama de flujo  
+>
+> Cada estudiante debe desarrollar su propio proyecto, documentación y organización del repositorio según las instrucciones de la Solemne II.
+
+
 # Ejemplo Solemne II
 
 - [link editable a p5js](https://editor.p5js.org/sofialuisa.xyz/sketches/NwXr2fEIj) con código y sketch corriendo. 
@@ -29,6 +43,15 @@ El comportamiento se construye a partir de:
 - **Transformación** → `map()` convierte input en estructura visual  
 - Esto produce un sistema dinámico: mismo código, resultados distintos.
 
+## Ejemplo diagrama de flujos
+
+![diagrama](ejemplo-diagramaflujo.png) 
+
+**no es necesario agregar íconos a cada sección, con la leyenda basta.*
+*Más ejemplos y recursos disponibles en los siguientes links:*
+- [tutorial simple de diagramas de flujo](https://www.youtube.com/watch?v=hTz4YzvtjrM)
+- [plantillas de diagramas de flujo en Canva](https://www.canva.com/es_mx/pizarra-digital/diagramas-flujo/)
+- [plantillas de diagramas de flujo en Figma](https://www.figma.com/es-la/comunidad/diagramacion/diagramas-de-flujo)
 
 ## Requisitos técnicos
 
