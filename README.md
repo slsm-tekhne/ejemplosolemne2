@@ -3,6 +3,8 @@
 - [link editable a p5js](https://editor.p5js.org/sofialuisa.xyz/sketches/NwXr2fEIj) con código y sketch corriendo. 
 - [visor pantalla completa](https://editor.p5js.org/sofialuisa.xyz/full/NwXr2fEIj) de sketch.
 
+![ejemplo](ejemplo.png)
+
 ## Por qué este proyecto cumple con los requisitos:
 
 Es un sistema generativo que crea composiciones visuales tipo afiche inspiradas en la Bauhaus.  
