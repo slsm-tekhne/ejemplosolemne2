@@ -65,16 +65,5 @@ El proyecto cumple con los mínimos requeridos:
 - Input continuo (mouse)  
 - Output visual dinámico y reactivo  
 
-
-> ⚠️ **Importante**
->
-> Este repositorio es solo para ejemplificar un proyecto de solemne II. Usar solo para referencia de **código, el funcionamiento del sistema y de diagrama de flujo**.
->
-> **NO es un modelo de cómo deben hacer su README ni la estructura de su repositorio.**
->
-> Úsenlo como referencia para:
-> - entender la lógica del sistema  
-> - ver cómo se relacionan input, proceso y output  
-> - revisar un ejemplo de diagrama de flujo  
->
-> Cada estudiante debe desarrollar su propio proyecto, documentación y organización del repositorio según las instrucciones de la Solemne II.
+## Otro ejemplo de sistema generativo (sólo código y visualización):
+[Ejemplo 2 - Solemne II / Sólo código y visualización](https://editor.p5js.org/sofialuisa.xyz/sketches/X_vurzNbb)
